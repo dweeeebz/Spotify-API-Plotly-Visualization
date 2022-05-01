@@ -1,1 +1,1 @@
-# Spotify-API-PLotly-Visualization
+# Spotify-API-Plotly-Visualization
